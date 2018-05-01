@@ -1,0 +1,17 @@
+armitage (20150813-1foxxy1) testing; urgency=medium
+
+  * Fix startup script
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Thu, 11 May 2017 11:49:43 +0200
+
+armitage (20150813-1foxxy0) testing; urgency=medium
+
+  * Update to armitage 150813
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@frozenbox.org>  Mon, 02 May 2016 18:53:04 +0200
+
+armitage (20150812-1foxxy0) testing; urgency=low
+
+  * Imported into Foxxy
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@frozenbox.org>  Fri, 18 Mar 2016 12:35:18 +0100
